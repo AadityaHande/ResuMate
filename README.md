@@ -1,4 +1,4 @@
-e# ResuMate - The AI Co-Pilot for Your Career
+## ResuMate - The AI Co-Pilot for Your Career
 
 ![ResuMate Screenshot](https://raw.githubusercontent.com/AadityaHande/ResuMate/main/public/app-screenshot.jpeg)
 
