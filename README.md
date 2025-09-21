@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ResuMate.git
+git clone https://github.com/AadityaHande/ResuMate.git
 cd ResuMate
 ```
 
