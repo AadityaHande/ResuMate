@@ -1,10 +1,10 @@
-# ResuMate - The AI Co-Pilot for Your Career
+e# ResuMate - The AI Co-Pilot for Your Career
 
 ![ResuMate Screenshot](https://raw.githubusercontent.com/AadityaHande/ResuMate/main/public/app-screenshot.jpeg)
 
 **ResuMate** is an intelligent, AI-powered resume analyzer and builder designed to help job seekers create professional, job-winning resumes with ease. It leverages the power of Google's Gemini models through Genkit to provide instant analysis, actionable feedback, and powerful editing tools, helping you tailor your resume to any job description effortlessly.
 
-**Live Demo:** [**https://resumate-jet.vercel.app/**](https://resumate-jet.vercel.app/)
+**Live Demo:** [**https://resumate-jet-gamma.vercel.app/**](https://resumate-jet.vercel.app/)
 
 **Video Demo:** [**Watch the Demo on Google Drive**](https://drive.google.com/file/d/1YQ3J0Ym6qG5n2vC4pA7X9xV8t5z9U1i0/view?usp=drive_link)
 
