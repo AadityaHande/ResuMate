@@ -6,7 +6,7 @@
 
 **Live Demo:** [**https://resumate-jet-gamma.vercel.app/**](https://resumate-jet-gamma.vercel.app/)
 
-**Video Demo:** [**Watch the Demo on Google Drive**](https://drive.google.com/file/d/1YQ3J0Ym6qG5n2vC4pA7X9xV8t5z9U1i0/view?usp=drive_link)
+**Video Demo:** [**Watch the Demo on Google Drive**](https://drive.google.com/file/d/1kkPhMjzEVRW4Vk-rWmrTqk6pTa-baUSL/view?usp=drivesdk)
 
 **Drive Folder:** [**Browse Project Documentation and Prototypes**](https://drive.google.com/drive/folders/1hmjWhtTP2hcjd_ImWLQ3UABwYf3zzpGF?usp=sharing)
 
